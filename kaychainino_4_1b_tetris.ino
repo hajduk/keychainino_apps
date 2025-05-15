@@ -1,4 +1,7 @@
 // KeyChainino 144 Tetris Game (12x12 matrix)
+// created by Martin Klocke
+// and help by Grok
+
 #include <KeyChainino.h>
 
 #define MATRIX_ROW 12
